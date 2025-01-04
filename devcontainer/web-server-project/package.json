@@ -1,0 +1,16 @@
+{
+  "name": "web-server-project",
+  "version": "1.0.0",
+  "description": "A simple web server project using Node.js",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
